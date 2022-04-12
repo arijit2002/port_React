@@ -51,3 +51,12 @@
     font-size: 1.3rem;
     cursor: pointer;
 }
+
+.mobile__menu{
+    display: none;
+}
+
+/*.header__shrink{
+    background: #132347;
+    box-shadow: 2px 2px 4px --2px #7765bd;
+}*/
