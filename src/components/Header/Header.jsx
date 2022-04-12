@@ -29,7 +29,7 @@ const Header = () => {
   return <header className="header">
       <Container>
         <div className="navigation d-flex align-items-center justify-content-between">
-            <div className="logo"><h5>Arijit</h5></div>
+            <div className="logo"><h4>Arijit</h4></div>
                 <div className="nav__menu">
                     <ul className="nav__list">
                         {
