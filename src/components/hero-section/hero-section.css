@@ -17,3 +17,8 @@
 .hero__section{
     padding-top: 150px;
 }
+
+.hero__content p{
+    line-height: 30px;
+    font-weight: 300;
+}
