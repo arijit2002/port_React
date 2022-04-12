@@ -8,6 +8,11 @@
     z-index: 1;
 }
 
+.logo h5{
+    font-size: 1.3rem;
+    color: #7865ff;
+}
+
 .nav__list{
     display: flex;
     align-items: center;
@@ -19,9 +24,24 @@
     transition: .3s;
     text-decoration: none;
     font-weight: 400;
+    cursor: pointer;
 }
 
 .nav__item a:hover{
     color: #7865ff;
 
+}
+
+.btn{
+    background: #7865ff;
+    color: #fff;
+    border: none;
+    outline: none;
+    border-radius: 5px;
+    font-size: .9rem;
+    padding: 7px 25px;
+}
+
+.movile__menu i{
+    color: #fff;
 }
