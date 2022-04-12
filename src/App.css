@@ -50,3 +50,6 @@ a:hover{
   color: unset;
 }
 
+section,footer{
+  padding: 60px 0px;
+}

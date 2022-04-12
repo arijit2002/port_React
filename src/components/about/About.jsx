@@ -11,8 +11,8 @@ function About() {
                   <Col lg='12' className='mb-5'><h2>About ME</h2></Col>
 
                   <Col lg='4' md='3'>
-                      <div className="about__btns">
-                          <button className="about__btn">About Me</button>
+                      <div className="about__btns d-flex flex-column align-items-center">
+                          <button className="about__btn about__btn-active">About Me</button>
                           <button className="about__btn">Education</button>
                           <button className="about__btn">Skills</button>
                           <button className="about__btn">Certificates</button>
@@ -30,8 +30,8 @@ function About() {
 
                               <div className="social__links">
                                   <h6>Connect with me!!</h6>
-                                  <span><a href='https://github.com/arijit2002'><i class="ri-github-line"></i></a></span>
-                                  <span><a href='https://www.linkedin.com/in/arijit-das-30140620a/'><i class="ri-linkedin-fill"></i></a></span>
+                                  <span><a href='https://github.com/arijit2002' target='_blank' rel="noreferrer"><i class="ri-github-line"></i></a></span>
+                                  <span><a href='https://www.linkedin.com/in/arijit-das-30140620a/' target='_blank' rel="noreferrer"><i class="ri-linkedin-fill"></i></a></span>
                               </div>
                           </div>
                       </div>
