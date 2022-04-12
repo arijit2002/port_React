@@ -8,20 +8,20 @@
     z-index: 1;
 }
 
-nav__list{
+.nav__list{
     display: flex;
     align-items: center;
     column-gap: 2.7rem;
 }
 
-.nav__items a{
+.nav__item a{
     color: #fff;
     transition: .3s;
     text-decoration: none;
     font-weight: 400;
 }
 
-.nav__items a:hover{
+.nav__item a:hover{
     color: #7865ff;
 
 }
