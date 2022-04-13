@@ -41,7 +41,13 @@
     color: #7865ff;
 }
 
+.about__img{
+    background: #7865ff;
+    border-radius: 10px;
+    height: 192px;
+}
+
 .social__links span{
-    margin-top: 10px;
+    
     margin-right: 15px;
 }

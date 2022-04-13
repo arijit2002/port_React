@@ -29,8 +29,8 @@ function About() {
                               <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Perspiciatis itaque quasi impedit alias enim recusandae, excepturi non quis voluptatibus eligendi. Sapiente, itaque repellendus natus cum nihil odit quasi dicta dolorum.</p>
 
                               <div className="social__links">
-                                  <h6>Connect with me!!</h6>
-                                  <span><a href='https://github.com/arijit2002' target='_blank' rel="noreferrer"><i class="ri-github-line"></i></a></span>
+                                  <h6 className='mb-3'>Connect with me!!</h6>
+                                  <span><a href='https://github.com/arijit2002' target='_blank' rel="noreferrer"><i class="ri-github-fill"></i></a></span>
                                   <span><a href='https://www.linkedin.com/in/arijit-das-30140620a/' target='_blank' rel="noreferrer"><i class="ri-linkedin-fill"></i></a></span>
                               </div>
                           </div>
