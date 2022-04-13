@@ -25,7 +25,8 @@
 
 .about__content__wrapper{
     background: #132347;
-    padding: 20px;
+    padding: 30px;
+    border-radius: 10px;
 }
 
 .about__content h2{
@@ -44,10 +45,9 @@
 .about__img{
     background: #7865ff;
     border-radius: 10px;
-    height: 192px;
+    height: 187px;
 }
 
 .social__links span{
-    
     margin-right: 15px;
 }
