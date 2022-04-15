@@ -31,10 +31,8 @@ function HeroSection() {
                       <div className="hero__btns d-flex align-items-center-gap-4">
                           <button className="btn">Contact</button>
                       </div>
-
                   </div>
               </Col>
-
               <Col lg='6' md='6'>
                   <div className="hero__img">
                       <img src={heroImg} alt=''/>
