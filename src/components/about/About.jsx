@@ -3,6 +3,7 @@ import './about.css'
 import { Container,Row,Col } from 'reactstrap'
 import aboutImg from '../../assets/images/hero__img.png'
 import Education  from './Education'
+import Skills from './Skills'
 
 function About() {
     const [aboutFilter,setAboutFilter]=useState('ABOUT')
@@ -17,14 +18,14 @@ function About() {
                       <div className="about__btns d-flex flex-column align-items-center">
                           <button className="about__btn about__btn-active" onClick={()=>setAboutFilter('ABOUT')}>About Me</button>
                           <button className="about__btn" onClick={()=>setAboutFilter('EDUCATION')}>Education</button>
-                          <button className="about__btn">Skills</button>
+                          <button className="about__btn" onClick={()=>setAboutFilter('SKILLS')}>Skills</button>
                           <button className="about__btn">Certificates</button>
                       </div>
                   </Col>
 
                   <Col lg='8' md='9'>
                       {
-                          aboutFilter === 'ABOUT' && <div className='about__content__wrapper d-flex gap-5'>
+                          aboutFilter === 'ABOUT' && (<div className='about__content__wrapper d-flex gap-5'>
                               <div className="about__img w-25">
                               <img src={aboutImg} alt="" className='w-100' />
                           </div>
@@ -40,9 +41,12 @@ function About() {
                               </div>
                           </div>
                           </div>
-                      }
+                          )}
                       {
                           aboutFilter === 'EDUCATION' && <Education/>
+                      }
+                      {
+                          aboutFilter === 'SKILLS' && <Skills/>
                       }
                   </Col>
               </Row>
