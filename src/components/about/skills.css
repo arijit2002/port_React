@@ -1,11 +1,18 @@
+.frontend__skill{
+    text-align: center;
+    justify-content: center;
+}
+
 .skills__wrapper{
     background: #132347;
     padding: 40px;
     border-radius: 10px;
+    text-align: center;
 }
 
-.skill__title{
+.skill__data{
     margin-bottom: 10px;
+    text-align: center;
 }
 
 h3{
