@@ -39,7 +39,6 @@ const Header = () => {
                         }
                     </ul>
                 </div>
-
                 <div className="nav__right d-flex align-items-center gap-4">
                     <button className="btn">Let's Talk</button>
                     <span className="mobile__menu"><i class="ri-menu-5-line"></i></span>
