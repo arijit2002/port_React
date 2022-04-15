@@ -58,7 +58,8 @@ const EHSkills=[
 ]
 
 function Skills() {
-  return <div className="skills__wrapper d-flex gap-5">
+  return (
+  <div className="skills__wrapper d-flex gap-5">
       <div className="frontend__skill w-50">
         {
             frontendSkills.map((item,index)=>(
@@ -93,6 +94,6 @@ function Skills() {
         }
       </div>
   </div>
-}
+  )}
 
 export default Skills
