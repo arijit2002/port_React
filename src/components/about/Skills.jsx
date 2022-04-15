@@ -60,7 +60,7 @@ const EHSkills=[
 function Skills() {
   return (
   <div className="skills__wrapper d-flex gap-5">
-      <div className="frontend__skill w-50">
+      <div className="frontend__skill w-50"><h3>Frontend</h3>
         {
             frontendSkills.map((item,index)=>(
                 <div className="skill__data mb-3">
@@ -71,7 +71,7 @@ function Skills() {
             ))
         }
       </div>
-      <div className="backend__skill w-50">
+      <div className="backend__skill w-50"><h3>Backend</h3>
       {
             backendSkills.map((item,index)=>(
                 <div className="skill__data mb-3">
@@ -82,7 +82,7 @@ function Skills() {
             ))
         }
       </div>
-      <div className="EH__skill w-50">
+      <div className="EH__skill w-50"><h3>Ethical Hacking</h3>
       {
             EHSkills.map((item,index)=>(
                 <div className="skill__data mb-3">
