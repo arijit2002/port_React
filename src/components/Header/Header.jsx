@@ -37,6 +37,9 @@ const Header = () => {
                             <a href='{item.url}'>{item.display}</a>
                             </li>)
                         }
+                        {
+                            console.log(navLinks.url)
+                        }
                     </ul>
                 </div>
                 <div className="nav__right d-flex align-items-center gap-4">
