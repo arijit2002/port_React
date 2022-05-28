@@ -34,9 +34,13 @@ function HeroSection() {
                   </div>
               </Col>
               <Col lg='6' md='6'>
-                  <div className="hero__img">
-                      <img src={heroImg} alt=''/>
+                  <div className='text-pic'>
+                      <div className="text">Hello</div>
+                    <div className="hero__img">
+                        <img src={heroImg} alt=''/>
+                    </div>
                   </div>
+                  
               </Col>
           </Row>
       </Container>

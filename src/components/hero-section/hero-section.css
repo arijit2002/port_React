@@ -22,3 +22,11 @@
     line-height: 30px;
     font-weight: 300;
 }
+
+.text-pic{
+    display: flex;
+}
+
+.text{
+    color: antiquewhite;
+}
