@@ -16,7 +16,7 @@ const frontendSkills=[
         title: 'JavaScript'
     },
     {
-        title: 'React.js'
+        title: 'React'
     }
 ];
 const backendSkills=[
@@ -28,6 +28,9 @@ const backendSkills=[
     },
     {
         title: 'Oracle SQL'
+    },
+    {
+        title: 'MySQL'
     },
     {
         title: 'MongoDB'
