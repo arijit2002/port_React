@@ -12,7 +12,7 @@ function About() {
       <section id="about">
           <Container>
               <Row>
-                  <Col lg='12' className='mb-5'><h2>About ME</h2></Col>
+                  <Col lg='12' className='mb-5'><h2>About Me</h2></Col>
                   <Col lg='4' md='3'>
                       <div className="about__btns d-flex flex-column align-items-center">
                           <button className="about__btn about__btn-active" onClick={()=>setAboutFilter('ABOUT')}>About Me</button>
