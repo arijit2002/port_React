@@ -1,7 +1,7 @@
 import React,{useEffect, useRef} from 'react'
 import './hero-section.css'
 import { Container,Row,Col } from 'reactstrap'
-import heroImg from '../../assets/images/hero__img.png'
+import heroImg from '../../assets/images/profile1.jpg'
 import { init } from 'ityped'
 
 
