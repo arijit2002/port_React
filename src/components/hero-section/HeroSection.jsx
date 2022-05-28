@@ -25,7 +25,7 @@ function HeroSection() {
           <Row>
               <Col lg='6' md='6'>
                   <div className="hero__content">
-                      <p className='mb-3'><h3>Welcome to my Webpage</h3></p>
+                      <h3><p className='mb-3'>Welcome to my Webpage</p></h3>
                       <h2 className='hero__title'>I'm <span ref={textRef}></span></h2>
                       <p>I’m a BCA 2nd year student at IEM, Kolkata focusing mainly on Backend Development and Cyber Security. I'm hardworking, self-learner and I try to give my full potential in the role I am assigned with.</p>
                       <div className="hero__btns d-flex align-items-center-gap-4">
