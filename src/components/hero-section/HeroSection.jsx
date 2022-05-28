@@ -13,7 +13,7 @@ function HeroSection() {
             showCursor:true,
             strings:[
                 'Arijit Das',
-                'Programmer',
+                'a Coder',
                 'a Backend Web Developer',
                 'a Cyber Security Enthusiast',
             ]
