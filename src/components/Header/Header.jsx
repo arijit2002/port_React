@@ -7,7 +7,7 @@ const Header = () => {
   return <header className="header">
       <Container>
         <div className="navigation d-flex align-items-center justify-content-between">
-            <div className="logo"><h4>Arijit</h4></div>
+            <div className="logo"><h4>𝓐𝓻𝓲𝓳𝓲𝓽 𝓓𝓪𝓼</h4></div>
                 <div className="nav__menu">
                     <ul className="nav__list">
                         <li className="nav__item"><a href="#home">Home</a></li>

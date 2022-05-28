@@ -27,7 +27,7 @@ function HeroSection() {
                   <div className="hero__content">
                       <h3><p className='mb-3'>Welcome to my Webpage</p></h3>
                       <h2 className='hero__title'>I'm <span ref={textRef}></span></h2>
-                      <p>I’m a BCA 2nd year student at IEM, Kolkata focusing mainly on Backend Development and Cyber Security. I'm hardworking, self-learner and I try to give my full potential in the role I am assigned with.</p>
+                      <p>I’m a BCA 2nd year student at IEM, Kolkata focusing mainly on Backend Development and Cyber Security. </p>
                       <div className="hero__btns d-flex align-items-center-gap-4">
                           <button className="btn">Contact</button>
                       </div>
