@@ -2,28 +2,6 @@ import React from 'react'
 import { Container } from 'reactstrap'
 import './header.css'
 
-const navLinks = [
-    {
-        display:'Home',
-        url:'#home'
-    },
-    {
-        display:'About',
-        url:'#about'
-    },
-    {
-        display:'Services',
-        url:'#services'
-    },
-    {
-        display:'Portfolio',
-        url:'#portfolio'
-    },
-    {
-        display:'Contact',
-        url:'#contact'
-    },
-]
 
 const Header = () => {
   return <header className="header">
