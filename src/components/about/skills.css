@@ -20,5 +20,6 @@ h3{
 }
 
 .skill__title{
-    text-align: right;
+    text-align:left;
+    justify-content: center;
 }

@@ -64,7 +64,7 @@ function Skills() {
         {
             frontendSkills.map((item,index)=>(
                 <div className="skill__data mb-3">
-                    <div className="skill__title d-flex align-items-center justify-content-between">
+                    <div className="skill__title d-flex align-items-center">
                         <h6>{item.title}</h6>
                     </div>   
                 </div>
@@ -75,7 +75,7 @@ function Skills() {
       {
             backendSkills.map((item,index)=>(
                 <div className="skill__data mb-3">
-                    <div className="skill__title d-flex align-items-center justify-content-between">
+                    <div className="skill__title d-flex align-items-center">
                         <h6>{item.title}</h6>
                     </div>   
                 </div>
@@ -86,7 +86,7 @@ function Skills() {
       {
             EHSkills.map((item,index)=>(
                 <div className="skill__data mb-3">
-                    <div className="skill__title d-flex align-items-center justify-content-between">
+                    <div className="skill__title d-flex align-items-center">
                         <h6>{item.title}</h6>
                     </div>   
                 </div>
