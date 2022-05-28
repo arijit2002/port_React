@@ -35,7 +35,7 @@ function HeroSection() {
               </Col>
               <Col lg='6' md='6'>
                   <div className='text-pic'>
-                      <div className="text">Hello</div>
+                      <div className="text">Lorem ipsum dolor sit amet consectetur adipisicing elit. Culpa non quas distinctio ducimus? Cum, non repudiandae corrupti, inventore illum nesciunt maxime eum at laborum quia magnam aliquid natus, in quas.</div>
                     <div className="hero__img">
                         <img src={heroImg} alt=''/>
                     </div>
