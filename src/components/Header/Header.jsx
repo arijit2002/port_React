@@ -32,14 +32,11 @@ const Header = () => {
             <div className="logo"><h4>Arijit</h4></div>
                 <div className="nav__menu">
                     <ul className="nav__list">
-                        {
-                            navLinks.map((item,index)=><li className="nav__item">
-                            <a href='{item.url}'>{item.display}</a>
-                            </li>)
-                        }
-                        {
-                            console.log(navLinks.url)
-                        }
+                        <li className="nav__item"><a href="#home">Home</a></li>
+                        <li className="nav__item"><a href="#about">About</a></li>
+                        <li className="nav__item"><a href="#services">Services</a></li>
+                        <li className="nav__item"><a href="#portfolio">Portfolio</a></li>
+                        <li className="nav__item"><a href="#contact">Contact</a></li>
                     </ul>
                 </div>
                 <div className="nav__right d-flex align-items-center gap-4">
