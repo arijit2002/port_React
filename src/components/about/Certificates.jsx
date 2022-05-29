@@ -44,7 +44,7 @@ export const Certificates = () => {
         <tr>
             <td>Advent of Cyber 2021</td>
             <td>Try Hack Me</td>
-            <td></td>
+            <td>Online Hacking Challenge of 21 days</td>
             <td>2021</td>
             <td><a target="_blank" href='https://drive.google.com/file/d/1CcNTknTjvDNPwxN72ACuBtJtp6hL8YaW/view?usp=sharing' rel="noreferrer">View</a></td>
         </tr>
