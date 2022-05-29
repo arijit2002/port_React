@@ -23,7 +23,7 @@ export const Certificates = () => {
         <tr>
             <td>Introduction to Cybersecurity</td>
             <td>CISCO</td>
-            <td>Focussing on having ideas about different Cyber Threats</td>
+            <td>Enlightening about different Cyber Threats</td>
             <td>2021</td>
             <td><a target="_blank" href='https://drive.google.com/file/d/1tAttTpLudSRvOjAyy7iYgK7wx7yutdkp/view?usp=sharing' rel="noreferrer">View</a></td>
         </tr>
