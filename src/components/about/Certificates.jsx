@@ -5,10 +5,10 @@ export const Certificates = () => {
   return <table className="tabble">
     <thead>
         <tr>
-            <th>Degree</th>
-            <th>Department</th>
-            <th>Institute</th>
+            <th>Name</th>
+            <th>From</th>
             <th>Year</th>
+            <th>Link</th>
         </tr>
     </thead>
     <tbody>
