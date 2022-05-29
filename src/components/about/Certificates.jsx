@@ -5,7 +5,7 @@ export const Certificates = () => {
   return <table className="tabble">
     <thead>
         <tr>
-            <th>Name</th>
+            <th>Topic</th>
             <th>From</th>
             <th>Year</th>
             <th>Link</th>
@@ -13,22 +13,28 @@ export const Certificates = () => {
     </thead>
     <tbody>
         <tr>
-            <td>BCA</td>
-            <td>Computer Application</td>
-            <td>Institute of Engineering and Management</td>
-            <td>2020-Present</td>
+            <td>Network Security 1</td>
+            <td>Fortinet</td>
+            <td>2021</td>
+            <td><a target="_blank" href='https://drive.google.com/file/d/1e7MSRS7e8tHa5dD0dQwnV0qJjXdyQndi/view?usp=sharing' rel="noreferrer">View</a></td>
         </tr>
         <tr>
-            <td>ISC - 12</td>
-            <td>Computer Science</td>
-            <td>Julien Day School</td>
-            <td>2018-2020</td>
+            <td>Introduction to Cybersecurity</td>
+            <td>CISCO</td>
+            <td>2021</td>
+            <td><a target="_blank" href='https://drive.google.com/file/d/1tAttTpLudSRvOjAyy7iYgK7wx7yutdkp/view?usp=sharing' rel="noreferrer">View</a></td>
         </tr>
         <tr>
-            <td>ICSE - 10</td>
-            <td>General Science</td>
-            <td>Julien Day School</td>
-            <td>2016-2018</td>
+            <td>Network Security 1</td>
+            <td>Fortinet</td>
+            <td>2021</td>
+            <td><a target="_blank" href='https://drive.google.com/file/d/1e7MSRS7e8tHa5dD0dQwnV0qJjXdyQndi/view?usp=sharing' rel="noreferrer">View</a></td>
+        </tr>
+        <tr>
+            <td>Network Security 1</td>
+            <td>Fortinet</td>
+            <td>2021</td>
+            <td><a target="_blank" href='https://drive.google.com/file/d/1e7MSRS7e8tHa5dD0dQwnV0qJjXdyQndi/view?usp=sharing' rel="noreferrer">View</a></td>
         </tr>
     </tbody>
 </table>
