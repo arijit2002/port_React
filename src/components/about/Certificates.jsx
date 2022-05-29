@@ -23,7 +23,7 @@ export const Certificates = () => {
         <tr>
             <td>Introduction to Cybersecurity</td>
             <td>CISCO</td>
-            <td></td>
+            <td>Focussing on having ideas about different Cyber Threats</td>
             <td>2021</td>
             <td><a target="_blank" href='https://drive.google.com/file/d/1tAttTpLudSRvOjAyy7iYgK7wx7yutdkp/view?usp=sharing' rel="noreferrer">View</a></td>
         </tr>
@@ -44,7 +44,7 @@ export const Certificates = () => {
         <tr>
             <td>Advent of Cyber 2021</td>
             <td>Try Hack Me</td>
-            <td>Online Hacking Challenge of 21 days</td>
+            <td>A 21 days Online Hacking Challenge</td>
             <td>2021</td>
             <td><a target="_blank" href='https://drive.google.com/file/d/1CcNTknTjvDNPwxN72ACuBtJtp6hL8YaW/view?usp=sharing' rel="noreferrer">View</a></td>
         </tr>
