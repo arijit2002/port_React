@@ -19,7 +19,7 @@ function About() {
                           <button className="about__btn about__btn-active" onClick={()=>setAboutFilter('ABOUT')}>About Me</button>
                           <button className="about__btn" onClick={()=>setAboutFilter('EDUCATION')}>Education</button>
                           <button className="about__btn" onClick={()=>setAboutFilter('SKILLS')}>Skills</button>
-                          <button className="about__btn">Certificates</button>
+                          <button className="about__btn" onClick={()=>setAboutFilter('CERTIFICATES')}>Certificates</button>
                       </div>
                   </Col>
 
@@ -47,6 +47,9 @@ function About() {
                       }
                       {
                           aboutFilter === 'SKILLS' && <Skills/>
+                      }
+                      {
+                          aboutFilter === 'CERTIFICATES' && <Certificates/>
                       }
                   </Col>
               </Row>
