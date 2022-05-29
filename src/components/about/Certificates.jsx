@@ -13,7 +13,7 @@ export const Certificates = () => {
     </thead>
     <tbody>
         <tr>
-            <td>Network Security 1</td>
+            <td>Network Security Associate 1 </td>
             <td>Fortinet</td>
             <td>2021</td>
             <td><a target="_blank" href='https://drive.google.com/file/d/1e7MSRS7e8tHa5dD0dQwnV0qJjXdyQndi/view?usp=sharing' rel="noreferrer">View</a></td>
@@ -25,16 +25,22 @@ export const Certificates = () => {
             <td><a target="_blank" href='https://drive.google.com/file/d/1tAttTpLudSRvOjAyy7iYgK7wx7yutdkp/view?usp=sharing' rel="noreferrer">View</a></td>
         </tr>
         <tr>
-            <td>Network Security 1</td>
-            <td>Fortinet</td>
+            <td>Python Basic Certification</td>
+            <td>HackerRank</td>
             <td>2021</td>
-            <td><a target="_blank" href='https://drive.google.com/file/d/1e7MSRS7e8tHa5dD0dQwnV0qJjXdyQndi/view?usp=sharing' rel="noreferrer">View</a></td>
+            <td><a target="_blank" href='https://drive.google.com/file/d/1IzcPyAUQS7HO7i0RAlXyJrYR4tKuI1Yy/view?usp=sharing' rel="noreferrer">View</a></td>
         </tr>
         <tr>
-            <td>Network Security 1</td>
-            <td>Fortinet</td>
+            <td>SQL Basic Certification</td>
+            <td>HackerRank</td>
             <td>2021</td>
-            <td><a target="_blank" href='https://drive.google.com/file/d/1e7MSRS7e8tHa5dD0dQwnV0qJjXdyQndi/view?usp=sharing' rel="noreferrer">View</a></td>
+            <td><a target="_blank" href='https://drive.google.com/file/d/1Rfy1bROKX04qLyaOsGo2fenSZSA_2EBM/view?usp=sharing' rel="noreferrer">View</a></td>
+        </tr>
+        <tr>
+            <td>Advent of Cyber 2021</td>
+            <td>Try Hack Me</td>
+            <td>2021</td>
+            <td><a target="_blank" href='https://drive.google.com/file/d/1CcNTknTjvDNPwxN72ACuBtJtp6hL8YaW/view?usp=sharing' rel="noreferrer">View</a></td>
         </tr>
     </tbody>
 </table>
