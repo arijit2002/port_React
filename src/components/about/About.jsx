@@ -4,6 +4,7 @@ import { Container,Row,Col } from 'reactstrap'
 import aboutImg from '../../assets/images/hero__img.png'
 import Education  from './Education'
 import Skills from './Skills'
+import Certificates from './Certificates'
 
 function About() {
     const [aboutFilter,setAboutFilter]=useState('ABOUT')
