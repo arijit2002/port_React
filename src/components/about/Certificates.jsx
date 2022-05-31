@@ -30,14 +30,14 @@ export const Certificates = () => {
         <tr>
             <td>Python Basic Certification</td>
             <td>HackerRank</td>
-            <td></td>
+            <td>Basic Python programming skill certification</td>
             <td>2021</td>
             <td><a target="_blank" href='https://drive.google.com/file/d/1IzcPyAUQS7HO7i0RAlXyJrYR4tKuI1Yy/view?usp=sharing' rel="noreferrer">View</a></td>
         </tr>
         <tr>
             <td>SQL Basic Certification</td>
             <td>HackerRank</td>
-            <td></td>
+            <td>Basic SQL query writting skill certification</td>
             <td>2021</td>
             <td><a target="_blank" href='https://drive.google.com/file/d/1Rfy1bROKX04qLyaOsGo2fenSZSA_2EBM/view?usp=sharing' rel="noreferrer">View</a></td>
         </tr>
