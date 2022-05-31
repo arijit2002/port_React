@@ -10,8 +10,8 @@ const Header = () => {
             <div className="logo"><h4>𝓐𝓻𝓲𝓳𝓲𝓽 𝓓𝓪𝓼</h4></div>
                 <div className="nav__menu">
                     <ul className="nav__list">
-                        <li className="nav__item"><a href="#home">Home</a></li>
-                        <li className="nav__item"><a href="#about">About</a></li>
+                        <li className="nav__item"><a href="#nT2gMD==">Home</a></li>
+                        <li className="nav__item"><a href="#LJWiqKD=">About</a></li>
                         <li className="nav__item"><a href="#portfolio">Portfolio</a></li>
                         <li className="nav__item"><a href="#contact">Contact</a></li>
                     </ul>

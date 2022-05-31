@@ -10,7 +10,7 @@ function About() {
     const [aboutFilter,setAboutFilter]=useState('ABOUT')
 
   return (
-      <section id="about">
+      <section id="LJWiqKD=">
           <Container>
               <Row>
                   <Col lg='12' className='mb-5'><h2>About Me</h2></Col>

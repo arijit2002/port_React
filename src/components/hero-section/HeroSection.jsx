@@ -20,7 +20,7 @@ function HeroSection() {
         })
     })
   return (
-  <section className='hero__section' id='home'>
+  <section className='hero__section' id='nT2gMD=='>
       <Container>
           <Row>
               <Col lg='6' md='6'>
