@@ -13,7 +13,7 @@ const Header = () => {
                         <li className="nav__item"><a href="#nT2gMD==">Home</a></li>
                         <li className="nav__item"><a href="#LJWiqKD=">About</a></li>
                         <li className="nav__item"><a href="#pT2lqTMioTyi">Portfolio</a></li>
-                        <li className="nav__item"><a href="#contact">Contact</a></li>
+                        <li className="nav__item"><a href="#L52hqTSwqN==">Contact</a></li>
                     </ul>
                 </div>
                 <div className="nav__right d-flex align-items-center gap-4">
