@@ -27,7 +27,7 @@ export const Contact = () => {
                 <form id="form" ref={form} onSubmit={sendEmail}>
                   <div className="field">
                     <label for="from_name">Enter Your Name Here</label>
-                    <input className='write-name' type='text' name="from_name" required id="from_name"/>
+                    <input className='write-name' placeholder='first_name last_name' type='text' name="from_name" required id="from_name"/>
                   </div>
                   <div className="field">
                     <label for="message">Enter Your Message Here</label>
