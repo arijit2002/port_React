@@ -36,3 +36,10 @@ input[type="submit"] {
     border-radius: 10px;
 }
 
+.social__links span a i{
+  color: #7865ff;
+}
+
+.social__links span{
+  margin-right: 15px;
+}

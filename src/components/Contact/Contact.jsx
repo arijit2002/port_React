@@ -39,6 +39,13 @@ export const Contact = () => {
               <input className='write' type="submit" id="button" value="Send"/>
             </form>
           </Col>
+          <Col lg='8' md='9'>
+            <div className="social__links">
+              <h6 className='mb-3'>Connect with me!!</h6>
+              <span><a href='https://github.com/arijit2002' target='_blank' rel="noreferrer"><i class="ri-github-fill"></i></a></span>
+              <span><a href='https://www.linkedin.com/in/arijit-das-30140620a/' target='_blank' rel="noreferrer"><i class="ri-linkedin-fill"></i></a></span>
+              </div>
+          </Col>
         </Row>
         
       </Container>
