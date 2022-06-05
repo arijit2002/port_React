@@ -37,7 +37,7 @@ export const Contact = () => {
                 <input className='write-mail' type='email' name="reply_to" required id="reply_to"/>
               </div>
 
-              <input className='write' type="submit" id="button" value="Send Email"/>
+              <input className='write' type="submit" id="button" value="Send"/>
             </form>
           </Col>
         </Row>
