@@ -7,40 +7,32 @@
     font-size: 12px;
     color: #777;
 }
-  
-.field input {
+
+.write-name, .write-message {
     display: block;
     min-width: 250px;
     line-height: 1.5;
-    font-size: 14px;
+    font-size: 18px;
+    border-radius: 10px;
+    text-transform: capitalize;
 }
-  
+
+.write-mail {
+  display: block;
+  min-width: 250px;
+  line-height: 1.5;
+  font-size: 18px;
+  border-radius: 10px;
+  text-transform: none
+}
+
 input[type="submit"] {
     display: block;
     padding: 6px 30px;
     font-size: 14px;
     background-color: #4460AA;
     color: #fff;
-    border: none
-}
-
-.write{
-  border-radius: 10px;
-
-}
-
-.write-name{
-  border-radius: 8px;
-  height: 40px;
-}
-
-.write-message{
-  border-radius: 8px;
-  height: 40px;
-}
-
-.write-mail{
-  border-radius: 8px;
-  height: 40px;
+    border: none;
+    border-radius: 10px;
 }
 
