@@ -44,6 +44,9 @@ input[type="submit"] {
   margin-right: 15px;
 }
 
+.about__content{
+  display: block;
+}
 .about__content h2{
   margin-bottom: 30px;
 }
