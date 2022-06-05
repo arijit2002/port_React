@@ -26,6 +26,14 @@
   text-transform: none
 }
 
+#button{
+  background: #3163ec;
+}
+
+#button:hover{
+  background: #0731a6;
+}
+
 input[type="submit"] {
     display: block;
     padding: 6px 30px;
