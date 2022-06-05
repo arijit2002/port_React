@@ -31,7 +31,7 @@ export const Contact = () => {
                   </div>
                   <div className="field">
                     <label for="message">Enter Your Message Here</label>
-                    <input className='write-message' type='text' name="message" required id="message"/>
+                    <input className='write-message' placeholder='message in short' type='text' name="message" required id="message"/>
                   </div>
                   <div className="field">
                     <label for="reply_to">Enter Your MailID Here</label>
