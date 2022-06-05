@@ -35,7 +35,7 @@ export const Contact = () => {
                   </div>
                   <div className="field">
                     <label for="reply_to">Enter Your MailID Here</label>
-                    <input className='write-mail' type='email' name="reply_to" required id="reply_to"/>
+                    <input className='write-mail' placeholder='eg: xyz@gmail.com' type='email' name="reply_to" required id="reply_to"/>
                   </div>
                   <input className='write' type="submit" id="button" value="Send"/>
                 </form>
