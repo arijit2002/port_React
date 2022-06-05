@@ -1,4 +1,5 @@
 import React, { useRef } from 'react';
+import { Container,Row,Col } from 'reactstrap'
 import emailjs from '@emailjs/browser';
 import './contact.css'
 
@@ -18,22 +19,24 @@ export const Contact = () => {
 
   return (
     <section className='contact' id='L52hqTSwqN=='>
+      <Container>
       <form id="form" ref={form} onSubmit={sendEmail}>
-        <div class="field">
-          <label for="from_name">Enter Your Name Here</label>
-          <input type="text" name="from_name" id="from_name"/>
-        </div>
-        <div class="field">
-          <label for="message">Enter Your Message Here</label>
-          <input type="text" name="message" id="message"/>
-        </div>
-        <div class="field">
-          <label for="reply_to">Enter Your MailID Here</label>
-          <input type="text" name="reply_to" id="reply_to"/>
-        </div>
+          <div class="field">
+            <label for="from_name">Enter Your Name Here</label>
+            <input type="text" name="from_name" id="from_name"/>
+          </div>
+          <div class="field">
+            <label for="message">Enter Your Message Here</label>
+            <input type="text" name="message" id="message"/>
+          </div>
+          <div class="field">
+            <label for="reply_to">Enter Your MailID Here</label>
+            <input type="text" name="reply_to" id="reply_to"/>
+          </div>
 
-        <input type="submit" id="button" value="Send Email"/>
-      </form>
+          <input type="submit" id="button" value="Send Email"/>
+        </form>
+      </Container>
     </section>
   );
 };
