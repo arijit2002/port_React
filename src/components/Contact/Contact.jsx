@@ -20,9 +20,9 @@ export const Contact = () => {
   return (
     <section className='contact' id='L52hqTSwqN=='>
       <Container>
-        <h2>Contact Me</h2>
         <Row>
-          <Col lg='6' md='6'>
+        <Col lg='12' className='mb-5'><h2>Contact Me</h2></Col>
+          <Col lg='20'>
             <form id="form" ref={form} onSubmit={sendEmail}>
               <div className="field">
                 <label for="from_name">Enter Your Name Here</label>
