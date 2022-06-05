@@ -36,7 +36,6 @@ export const Contact = () => {
                 <label for="reply_to">Enter Your MailID Here</label>
                 <input className='write-mail' type='email' name="reply_to" required id="reply_to"/>
               </div>
-
               <input className='write' type="submit" id="button" value="Send"/>
             </form>
           </Col>
