@@ -46,6 +46,7 @@ input[type="submit"] {
 
 .about__content{
   display: block;
+  margin-left: 50px;
 }
 .about__content h2{
   margin-bottom: 30px;
@@ -54,4 +55,8 @@ input[type="submit"] {
 .about__content p{
   line-height: 30px;
   font-weight: 300;
+}
+
+.test{
+  display: flex;
 }
