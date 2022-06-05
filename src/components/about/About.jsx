@@ -27,7 +27,7 @@ function About() {
                       {
                           aboutFilter === 'ABOUT' && (<div className='about__content__wrapper d-flex gap-5'>
                               <div className="about__img w-25">
-                              <img src={aboutImg} alt="" className='w-100' />
+                              <img src={aboutImg} alt="img" className='w-100' />
                           </div>
                             
                           <div className="about__content w-75">
@@ -39,9 +39,9 @@ function About() {
                                   <span><a href='https://github.com/arijit2002' target='_blank' rel="noreferrer"><i class="ri-github-fill"></i></a></span>
                                   <span><a href='https://www.linkedin.com/in/arijit-das-30140620a/' target='_blank' rel="noreferrer"><i class="ri-linkedin-fill"></i></a></span>
                               </div>
-                          </div>
-                          </div>
-                          )}
+                            </div>
+                        </div>
+                        )}
                       {
                           aboutFilter === 'EDUCATION' && <Education/>
                       }

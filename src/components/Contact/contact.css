@@ -43,3 +43,12 @@ input[type="submit"] {
 .social__links span{
   margin-right: 15px;
 }
+
+.about__content h2{
+  margin-bottom: 30px;
+}
+
+.about__content p{
+  line-height: 30px;
+  font-weight: 300;
+}
