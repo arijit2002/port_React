@@ -29,7 +29,7 @@ function HeroSection() {
                       <h2 className='hero__title'>I'm <span ref={textRef}></span></h2>
                       <p>I’m a BCA 2nd year student at IEM, Kolkata focusing mainly on Backend Development and Cyber Security. </p>
                       <div className="hero__btns d-flex align-items-center-gap-4">
-                          <button className="btn">Contact</button>
+                          <button className="btn"><a href='#L52hqTSwqN==' className='btn'>Contact</a></button>
                       </div>
                   </div>
               </Col>
